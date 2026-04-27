@@ -1,4 +1,5 @@
 <img width="1358" height="986" alt="image" src="https://github.com/user-attachments/assets/da6bbee3-1c48-4c25-b8b6-12b0ad4f86da" />
+<img width="1293" height="970" alt="image" src="https://github.com/user-attachments/assets/90c341a4-0dce-4ff4-bf2d-31790736d0c9" />
 
 # 🎨 פרויקט: Multi-Lingual Color Expert RAG
 
