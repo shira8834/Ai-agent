@@ -1,0 +1,24 @@
+# משתני סביבה ומפתחות סודיים (הכי חשוב!)
+.env
+*.env
+secrets.py
+
+# סביבות וירטואליות (אין צורך להעלות אותן, הן כבדות)
+.venv/
+venv/
+env/
+node_modules/
+
+# קבצי זיכרון ומטמון של פייתון
+__pycache__/
+*.py[cod]
+*$py.class
+
+# בסיס נתונים מקומי (ChromaDB)
+.chroma/
+chroma_db/
+
+# קבצי מערכת של המחשב
+.DS_Store
+Thumbs.db
+.vscode/
