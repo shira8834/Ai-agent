@@ -24,3 +24,21 @@
 1. התקנת ספריות: 
    ```bash
    pip install langchain-cohere langchain-chroma streamlit python-dotenv
+עדכון מפתח API בקובץ .env:
+COHERE_API_KEY=your_key_here
+
+הרצת האפליקציה:
+
+Bash
+
+streamlit run app.py
+💡 דוגמאות לשימוש
+"איזה צבע מתקבל מערבוב של כחול וצהוב?"
+
+"מהו הצבע המשלים של סגול?"
+
+"איך יוצרים צבע פסטל?" (המערכת תענה רק אם המידע קיים במאגר).
+
+מגיש: [השם שלך]
+
+קורס: AI Agents - שיעור 4 (RAG)
